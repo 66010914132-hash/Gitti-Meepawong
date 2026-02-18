@@ -15,7 +15,7 @@
     <p>ชื่อ-นามสกุล: กิตติ มีภาวงษ์</p>
 
     <button class="btn-me" onclick="window.open('1.jpg')">รูปตัวเอง</button>
-    <button class="btn-teacher" onclick="window.open('teacher.jpg')">รูปอาจารย์</button>
+    <button class="btn-teacher" onclick="window.open('2.jpg')">รูปอาจารย์</button>
 
 </body>
 </html>
